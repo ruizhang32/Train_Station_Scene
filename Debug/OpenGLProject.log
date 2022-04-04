@@ -1,0 +1,43 @@
+﻿  test.cpp
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(161,23): warning C4305: '+=': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(164,17): warning C4553: '==': result of expression not used; did you intend '='?
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(167,23): warning C4305: '-=': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(171,24): warning C4305: '+=': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(174,18): warning C4553: '==': result of expression not used; did you intend '='?
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(177,24): warning C4305: '-=': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(200,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(349,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(350,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(351,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(352,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(376,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(377,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(378,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(379,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(384,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(453,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(477,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(484,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(491,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(497,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(511,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(537,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(561,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(562,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(563,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(564,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(600,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(645,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(919,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(920,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(921,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(940,8): warning C4101: 'nx': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(940,15): warning C4101: 'ny': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(941,22): warning C4101: 'mz': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(941,15): warning C4101: 'my': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(941,8): warning C4101: 'mx': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(940,22): warning C4101: 'nz': unreferenced local variable
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(1124,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(1131,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\363assignment1\OpenGLProject\OpenGLProject\test.cpp(1195,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGLProject.vcxproj -> E:\363assignment1\OpenGLProject\Debug\OpenGLProject.exe
